@@ -1,0 +1,173 @@
+﻿body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Yusei Magic', sans-serif;
+}
+
+.container-xl{
+	text-align: center;
+}
+
+.header{
+	display: flex;
+	flex-direction: row;
+}
+
+.left-header{
+	display: flex;
+}
+
+.dance-img{
+	width: 220px;
+	height: 160px;
+}
+
+.title{
+	font-family: 'Yusei Magic', sans-serif;
+	margin: 50px 200px;
+	font-size: 40px;
+	color: darkred;
+}
+
+.title-a{
+	color: darkred;
+	text-decoration: none;
+}
+
+.title-a:hover{
+	color: darkred;
+}
+
+.right-header{
+	margin-left: auto;
+}
+
+.fa.fa-user{
+	font-size: 50px;
+	color: darkred;
+	margin: 50px 30px;
+}
+
+.slider-img{
+	width: 1075px;
+	height: 430px;
+	overflow: hidden;
+}
+
+.slider-container{
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	list-style: none;
+	position: relative;
+}
+
+.slider-item{
+	width: 1075px;
+	height: 430px;
+	float: left;
+}
+
+.contract-info{
+	font-family: 'Yusei Magic', sans-serif;
+	background: brown;
+	color: white;
+	font-size: 30px;
+	width: 50%;
+	margin: 25px auto;
+	text-align: center;
+}
+
+.contract-a{
+	color: white;
+}
+
+/* ログインフォーム */
+.login-form{
+	width: 50%;
+	height: 50%;
+	margin: 30px auto;
+	background: lightcoral;
+	padding: 30px;
+	border-radius: 40px;
+}
+
+.login-p{
+	font-family: 'Yusei Magic';
+  margin: 20px 0 10px 0;
+}
+
+.login-btn{
+	font-family: 'Yusei Magic';
+}
+
+.mypage-title{
+	font-family: 'Yusei Magic';
+}
+
+.contract-detail{
+	margin: 50px auto;
+	background: lightcoral;
+	width: 50%;
+	border-radius: 11px;
+	padding: 20px;
+}
+
+.contract-detail-part1{
+	border-bottom: 1px solid white;
+	font-family: 'Yusei Magic';
+	font-size: 20px;
+}
+.contract-detial-part2{
+	margin: 0;
+	font-family: 'Yusei Magic';
+	font-size: 15px;
+}
+
+.top{
+	font-family: 'Yusei Magic';
+	font-size: 20px;
+	color: darkred;
+}
+.top:hover{
+	color: darkred;
+}
+
+/* ログインフォーム終了 */
+
+/* 予約画面 */
+
+.detail-btn{
+	font-family: 'Yusei Magic';
+	border: none;
+	background: lightcoral;
+}
+/* 予約画面 */
+
+.entry-title, .entry-p, .form-btn{
+	font-family: 'Yusei Magic';
+}
+
+.form-btn{
+	border: none;
+	background: lightcoral
+}
+
+.entry-p{
+	margin: 0;
+}
+
+.form{
+	margin-bottom: 20px;
+}
+
+.entry-check-p{
+	font-family: 'Yusei Magic';;
+}
+
+.staff-login-p{
+	font-family: 'Yusei Magic';
+	margin: 25px 0px 0px 0;
+}
+
+
